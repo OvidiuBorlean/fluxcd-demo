@@ -1,0 +1,2 @@
+# fluxcd-demo
+Demo FluxCD
